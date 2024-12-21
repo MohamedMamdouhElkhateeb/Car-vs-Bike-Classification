@@ -11,7 +11,7 @@ This repository contains a project for classifying images of cars and bikes usin
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
