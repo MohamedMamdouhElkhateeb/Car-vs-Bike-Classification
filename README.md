@@ -7,10 +7,6 @@ This repository contains a project for classifying images of cars and bikes usin
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Models](#models)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
 
 
 ## Introduction
@@ -19,7 +15,7 @@ The goal of this project is to classify images into two categories: cars and bik
 
 ## Dataset
 
-The dataset used in this project consists of labeled images of cars and bikes. It is divided into training, validation, and test sets. You can download the dataset from [link to dataset] (if applicable).
+The dataset used in this project consists of labeled images of cars and bikes. It is divided into training, validation, and test sets. You can download the dataset from [https://www.kaggle.com/datasets/utkarshsaxenadn/car-vs-bike-classification-dataset] .
 
 ## Models
 
